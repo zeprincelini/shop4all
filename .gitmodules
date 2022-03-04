@@ -1,0 +1,6 @@
+[submodule "shop4all-client"]
+	path = shop4all-client
+	url = https://github.com/zeprincelini/shop4all-client.git
+[submodule "shop4all-server"]
+	path = shop4all-server
+	url = https://github.com/zeprincelini/shop4all-server.git
